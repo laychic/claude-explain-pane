@@ -1,5 +1,6 @@
 # Claude Code Explain Pane
 
+**English** | [简体中文](../main/README-zh.md) 
 An incognito side-pane for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — ask questions about your current conversation in a separate terminal, without polluting the main session.
 
 ```
