@@ -1,6 +1,6 @@
 # Claude Code 解释面板（Claude Code Explain Pane）
 
-[English](../README.md) | **简体中文**
+[English](../main/README.md) | **简体中文**
 
 ---
 
