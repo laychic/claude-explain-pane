@@ -37,7 +37,7 @@ An incognito side-pane for [Claude Code](https://docs.anthropic.com/en/docs/clau
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-explain-pane.git
+git clone https://github.com/laychic/claude-explain-pane.git
 cd claude-explain-pane
 bash install.sh
 ```
